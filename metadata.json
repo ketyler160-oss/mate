@@ -1,0 +1,6 @@
+{
+  "name": "Luckymate",
+  "description": "Luckymate Sportsbook & Casino with live matches, betslip, crash games, AI match insights, and multi-currency Real & Demo wallets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
